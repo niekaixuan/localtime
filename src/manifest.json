@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "北京时间",
+    "version": "1.0",
+    "description": "一个简单的 Chrome 插件，用于在浏览器中悬浮显示北京时间",
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
+    "action": {
+        "default_icon": "icon48.png",
+        "default_title": "北京时间",
+        "default_popup": "popup.html"
+    }
+}
